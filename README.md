@@ -19,7 +19,7 @@
   <a href="https://www.python.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/python.svg" alt="Python" height="50" />
   </a>
-  <a href="https://www.jetbrains.com/">
+  <a href="https://www.jetbrains.com/all/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/jetbrains.svg" alt="JetBrains" height="50" />
   </a>
   <a href="https://www.vim.org/">
@@ -31,7 +31,7 @@
   <a href="https://www.debian.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/debian.svg" alt="Debian" height="50" />
   </a>
-  <a href="https://www.microsoft.com/">
+  <a href="https://www.microsoft.com/windows/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/windows.svg" alt="Windows" height="50" />
   </a>
 
