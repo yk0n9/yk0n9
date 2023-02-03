@@ -7,16 +7,33 @@
 ### Languages, Tools and Platforms
 ---
 <div align="center">  
-  
+  <a href="https://openjdk.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/java.svg" alt="Java" height="50" />
+  </a>
+  <a href="https://www.rust-lang.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/rust.svg" alt="Rust" height="50" />
+  </a>
+  <a href="https://kotlinlang.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/kotlin.svg" alt="Kotlin" height="50" />
+  </a>
+  <a href="https://www.python.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/python.svg" alt="Python" height="50" />
+  </a>
+  <a href="https://www.jetbrains.com/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/jetbrains.svg" alt="JetBrains" height="50" />
+  </a>
+  <a href="https://www.vim.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/vim.svg" alt="Vim" height="50" />
+  </a>
+  <a href="https://archlinux.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/archlinux.svg" alt="Archlinux" height="50" />
+  </a>
+  <a href="https://www.debian.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/debian.svg" alt="Debian" height="50" />
+  </a>
+  <a href="https://www.microsoft.com/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/windows.svg" alt="Windows" height="50" />
+  </a>
 
 </div>
 
