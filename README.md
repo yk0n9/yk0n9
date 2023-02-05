@@ -7,7 +7,7 @@
 ### Languages, Tools and Platforms
 ---
 <div align="center">  
-  <a href="https://openjdk.org/">
+  <a href="https://jdk.java.net/archive/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/java.svg" alt="Java" height="50" />
   </a>
   <a href="https://www.rust-lang.org/">
