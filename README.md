@@ -22,8 +22,8 @@
   <a href="https://www.jetbrains.com/all/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/jetbrains.svg" alt="JetBrains" height="50" />
   </a>
-  <a href="https://www.vim.org/">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/vim.svg" alt="Vim" height="50" />
+  <a href="https://neovim.io/">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/neovim.svg" alt="Neovim" height="50" />
   </a>
   <a href="https://archlinux.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/Ykong1337/Ykong1337/main/icons/archlinux.svg" alt="Archlinux" height="50" />
