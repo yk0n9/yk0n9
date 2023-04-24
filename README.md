@@ -1,8 +1,8 @@
 ### Ykong 👋
 ---
-- Currently learning Rust and Kotlin
+- Hobby is collecting various IDE
 - Working on backend development
-- ACG lovers
+- ACG lover
 
 ### Languages, Tools and Platforms
 ---
