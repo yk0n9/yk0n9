@@ -13,8 +13,8 @@
   <a href="https://kotlinlang.org/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/ykong1337/ykong1337/main/icons/kotlin.svg" alt="Kotlin" height="50" />
   </a>
-  <a href="https://www.jetbrains.com/all/">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/ykong1337/ykong1337/main/icons/jetbrains.svg" alt="JetBrains" height="50" />
+  <a href="https://www.jetbrains.com/clion/">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/ykong1337/ykong1337/main/icons/clion.svg" alt="Clion" height="50" />
   </a>
   <a href="https://neovim.io/">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/ykong1337/ykong1337/main/icons/neovim.svg" alt="Neovim" height="50" />
