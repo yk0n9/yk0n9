@@ -4,6 +4,8 @@
 - Working on backend development
 - ACG lover
 
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=ykong1337&count=1)](https://www.last.fm/user/ykong1337)
+
 ### Languages, Tools and Platforms
 ---
 <div align="center">  
