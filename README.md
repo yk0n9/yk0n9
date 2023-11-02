@@ -5,8 +5,8 @@
   <img alt="Last.me" src="https://lastfm-recently-played.vercel.app/api?user=ykong1337&count=1" align="right"/>
 </a>
 
-- Hobby is collecting various IDE
 - Working on backend development
+- I’m currently learning C
 - ACG lover
 
 ### Languages, Tools and Platforms
