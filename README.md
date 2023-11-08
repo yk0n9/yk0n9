@@ -6,7 +6,7 @@
 </a>
 
 - Working on backend development
-- I’m currently learning C
+- I currently learning C
 - ACG lover
 
 ### Languages, Tools and Platforms
