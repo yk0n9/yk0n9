@@ -12,22 +12,22 @@
 ### Languages, Tools and Platforms
 ---
 <div align="center">
-  <a href="https://www.rust-lang.org/">
+  <a href="https://www.rust-lang.org/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/rust.svg" alt="Rust" height="50" />
   </a>
-  <a href="https://kotlinlang.org/">
+  <a href="https://kotlinlang.org/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/kotlin.svg" alt="Kotlin" height="50" />
   </a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
   </a>
-  <a href="https://neovim.io/">
+  <a href="https://neovim.io/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/neovim.svg" alt="Neovim" height="50" />
   </a>
-  <a href="https://fedoraproject.org/">
+  <a href="https://fedoraproject.org/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/fedora.svg" alt="Fedora" height="50" />
   </a>
-  <a href="https://www.microsoft.com/windows/">
+  <a href="https://www.microsoft.com/windows/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/windows.svg" alt="Windows" height="50" />
   </a>
 </div>
