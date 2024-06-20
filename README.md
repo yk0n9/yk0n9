@@ -2,7 +2,7 @@
 ---
 
 <a href="https://www.last.fm/user/ykong1337">
-  <img alt="Last.me" src="https://lastfm-recently-played.vercel.app/api?user=ykong1337&count=1" style="float: right"/>
+  <img alt="Last.me" src="https://lastfm-recently-played.vercel.app/api?user=ykong1337&count=1" align="right"/>
 </a>
 
 - Working on backend development
@@ -11,7 +11,7 @@
 
 ### Languages, Tools and Platforms
 ---
-<div style="text-align: center">
+<div align="center">
   <a href="https://www.rust-lang.org/">
     <img style="margin: 10px" src="icons/rust.svg" alt="Rust" height="50" />
   </a>
