@@ -11,7 +11,7 @@
 
 ### Languages, Tools and Platforms
 ---
-<div align="center">
+<div>
   <a href="https://www.rust-lang.org/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/rust.svg" alt="Rust" height="50" />
   </a>
