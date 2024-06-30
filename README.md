@@ -8,8 +8,8 @@
 <!-- <a href="https://open.spotify.com">
   <img alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=1" align="right"/>
 </a> -->
-<a href="https://open.spotify.com">
-  <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f" align="right"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312x4y7fm7whxbvpoceulq25224i&redirect=true">
+  <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="right"/>
 </a>
 
 - Working on backend development
