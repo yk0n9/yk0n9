@@ -8,9 +8,12 @@
 <!-- <a href="https://open.spotify.com">
   <img alt="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=1" align="right"/>
 </a> -->
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&redirect=true">
+<!-- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&redirect=true">
   <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="right"/>
-</a>
+</a> -->
+&nbsp;<div align="right">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i)
+</div>
 
 - Working on backend development
 - I'm currently learning C
