@@ -13,7 +13,7 @@
 </a> -->
 
 <div align="right">
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i)
 </div>
 
 - Working on backend development
