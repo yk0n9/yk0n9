@@ -11,9 +11,9 @@
 <!-- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&redirect=true">
   <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" align="right"/>
 </a> -->
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i)
-
+&nbsp;<div align="right">
+  [![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=1)](https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i)
+</div>
 
 - Working on backend development
 - I'm currently learning C
