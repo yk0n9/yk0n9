@@ -33,6 +33,9 @@
   <a href="https://code.visualstudio.com/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
   </a>
+  <a href="https://zed.dev/" style="text-decoration: none">
+    <img style="margin: 10px" src="icons/zed.svg" alt="Zed" height="50" />
+  </a>
   <a href="https://neovim.io/" style="text-decoration: none">
     <img style="margin: 10px" src="icons/neovim.svg" alt="Neovim" height="50" />
   </a>
