@@ -26,7 +26,6 @@
 
 ---
 
-<style>a{text-decoration: none}</style>
 <div>
   <a href="https://www.rust-lang.org/">
     <img style="margin: 12px" src="icons/rust.svg" alt="Rust" height="50" />
