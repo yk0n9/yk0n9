@@ -1,4 +1,5 @@
 ### Ykong 👋
+
 ---
 
 <!-- <a href="https://www.last.fm/user/ykong1337">
@@ -22,27 +23,30 @@
 - ACG lover
 
 ### Languages, Tools and Platforms
+
 ---
+
+<style>a{text-decoration: none}</style>
 <div>
-  <a href="https://www.rust-lang.org/" style="text-decoration: none">
+  <a href="https://www.rust-lang.org/">
     <img style="margin: 12px" src="icons/rust.svg" alt="Rust" height="50" />
   </a>
-  <a href="https://kotlinlang.org/" style="text-decoration: none">
+  <a href="https://kotlinlang.org/">
     <img style="margin: 12px" src="icons/kotlin.svg" alt="Kotlin" height="50" />
   </a>
-  <a href="https://zed.dev/" style="text-decoration: none">
+  <a href="https://zed.dev/">
     <img style="margin: 12px" src="icons/zed.svg" alt="Zed" height="50" />
   </a>
-  <a href="https://code.visualstudio.com/" style="text-decoration: none">
+  <a href="https://code.visualstudio.com/">
     <img style="margin: 12px" src="icons/vscode.svg" alt="VSCode" height="50" />
   </a>
-  <a href="https://neovim.io/" style="text-decoration: none">
+  <a href="https://neovim.io/">
     <img style="margin: 12px" src="icons/neovim.svg" alt="Neovim" height="50" />
   </a>
-  <a href="https://fedoraproject.org/" style="text-decoration: none">
+  <a href="https://fedoraproject.org/">
     <img style="margin: 12px" src="icons/fedora.svg" alt="Fedora" height="50" />
   </a>
-  <a href="https://www.microsoft.com/windows/" style="text-decoration: none">
+  <a href="https://www.microsoft.com/windows/">
     <img style="margin: 12px" src="icons/windows.svg" alt="Windows" height="50" />
   </a>
 </div>
@@ -52,4 +56,3 @@
 <!-- ![](https://raw.githubusercontent.com/ykong1337/ykong1337/output/github-contribution-grid-snake.svg) -->
 
 <!-- ![](http://profile-counter.glitch.me/ykong1337/count.svg) -->
-
