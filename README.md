@@ -39,9 +39,9 @@
       <img style="margin: 10px" src="icons/kotlin.svg" alt="Kotlin" height="50" />
     </picture>
   </a>
-  <a href="https://www.vim.org/">
+  <a href="https://neovim.io/">
     <picture>
-      <img style="margin: 10px" src="icons/vim.svg" alt="Vim" height="50" />
+      <img style="margin: 10px" src="icons/neovim.svg" alt="NeoVim" height="50" />
     </picture>
   </a>
   <a href="https://code.visualstudio.com/">
