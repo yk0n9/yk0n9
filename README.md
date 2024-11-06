@@ -8,15 +8,17 @@
 </a>
 -->
 
+<!--
 <a href="https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i">
   <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right"/>
 </a>
+-->
 
-<!--
+
 <a href="https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i">
   <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=1" align="right"/>
 </a>
--->
+
 
 - Working on backend development
 - I'm currently learning C
