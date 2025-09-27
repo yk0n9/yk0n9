@@ -31,9 +31,9 @@
 <div>
   <a href="https://www.rust-lang.org/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/rust-color.svg">
-      <source media="(prefers-color-scheme: light)" srcset="icons/rust.svg">
-      <img style="margin: 10px" src="icons/rust.svg" alt="Rust" height="50" />
+      <source media="(prefers-color-scheme: dark)" srcset="icons/rust-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="icons/rust-dark.svg">
+      <img style="margin: 10px" src="icons/rust-dark.svg" alt="Rust" height="50" />
     </picture>
   </a>
   <a href="https://kotlinlang.org/">
@@ -58,7 +58,9 @@
   </a>
   <a href="https://www.apple.com/os/macos/">
     <picture>
-      <img style="margin: 10px" src="icons/macos.svg" alt="macOS" height="50" />
+      <source media="(prefers-color-scheme: dark)" srcset="icons/macos-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="icons/macos-dark.svg">
+      <img style="margin: 10px" src="icons/macos-dark.svg" alt="macOS" height="50" />
     </picture>
   </a>
   <a href="https://www.microsoft.com/windows/">
