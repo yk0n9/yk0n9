@@ -51,9 +51,14 @@
       <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
     </picture>
   </a>
-  <a href="https://fedoraproject.org/">
+  <a href="https://endeavouros.com/">
     <picture>
-      <img style="margin: 10px" src="icons/fedora.svg" alt="Fedora" height="50" />
+      <img style="margin: 10px" src="icons/endeavouros.svg" alt="EndeavourOS" height="50" />
+    </picture>
+  </a>
+  <a href="https://www.apple.com/os/macos/">
+    <picture>
+      <img style="margin: 10px" src="icons/macos.svg" alt="macOS" height="50" />
     </picture>
   </a>
   <a href="https://www.microsoft.com/windows/">
