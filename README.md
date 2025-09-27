@@ -58,9 +58,9 @@
   </a>
   <a href="https://www.apple.com/os/macos/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/macos-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="icons/macos-dark.svg">
-      <img style="margin: 10px" src="icons/macos-dark.svg" alt="macOS" height="50" />
+      <source media="(prefers-color-scheme: dark)" srcset="icons/apple-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="icons/apple-dark.svg">
+      <img style="margin: 10px" src="icons/apple-dark.svg" alt="apple" height="50" />
     </picture>
   </a>
   <a href="https://www.microsoft.com/windows/">
