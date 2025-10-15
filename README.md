@@ -51,11 +51,13 @@
       <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
     </picture>
   </a>
+  <!--
   <a href="https://endeavouros.com/">
     <picture>
       <img style="margin: 10px" src="icons/endeavouros.svg" alt="EndeavourOS" height="50" />
     </picture>
   </a>
+  -->
   <a href="https://www.apple.com/os/macos/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="icons/apple-light.svg">
