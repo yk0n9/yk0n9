@@ -1,3 +1,7 @@
+<a href="https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i">
+  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=5" align="right"/>
+</a>
+
 ### Ykong 👋
 
 ---
@@ -13,12 +17,6 @@
   <img alt="spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=312x4y7fm7whxbvpoceulq25224i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" align="right"/>
 </a>
 -->
-
-
-<a href="https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i">
-  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=1" align="right"/>
-</a>
-
 
 - Working on backend development
 - I'm currently learning C
@@ -51,13 +49,6 @@
       <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
     </picture>
   </a>
-  <!--
-  <a href="https://endeavouros.com/">
-    <picture>
-      <img style="margin: 10px" src="icons/endeavouros.svg" alt="EndeavourOS" height="50" />
-    </picture>
-  </a>
-  -->
   <a href="https://www.apple.com/os/macos/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="icons/apple-light.svg">
