@@ -1,5 +1,5 @@
 <a href="https://open.spotify.com/user/312x4y7fm7whxbvpoceulq25224i">
-  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=5" align="right"/>
+  <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=312x4y7fm7whxbvpoceulq25224i&count=5&unique=1" align="right"/>
 </a>
 
 ### Ykong 👋
