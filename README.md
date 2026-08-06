@@ -27,40 +27,12 @@
 ---
 
 <div>
-  <a href="https://www.rust-lang.org/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/rust-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="icons/rust-dark.svg">
-      <img style="margin: 10px" src="icons/rust-dark.svg" alt="Rust" height="50" />
-    </picture>
-  </a>
-  <a href="https://kotlinlang.org/">
-    <picture>
-      <img style="margin: 10px" src="icons/kotlin.svg" alt="Kotlin" height="50" />
-    </picture>
-  </a>
-  <a href="https://neovim.io/">
-    <picture>
-      <img style="margin: 10px" src="icons/neovim.svg" alt="NeoVim" height="50" />
-    </picture>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <picture>
-      <img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" />
-    </picture>
-  </a>
-  <a href="https://www.apple.com/os/macos/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="icons/apple-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="icons/apple-dark.svg">
-      <img style="margin: 10px" src="icons/apple-dark.svg" alt="apple" height="50" />
-    </picture>
-  </a>
-  <a href="https://www.microsoft.com/windows/">
-    <picture>
-      <img style="margin: 10px" src="icons/windows.svg" alt="Windows" height="50" />
-    </picture>
-  </a>
+  <a href="https://www.rust-lang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/rust-light.svg"><source media="(prefers-color-scheme: light)" srcset="icons/rust-dark.svg"><img style="margin: 10px" src="icons/rust-dark.svg" alt="Rust" height="50" /></picture></a>
+  <a href="https://kotlinlang.org/"><picture><img style="margin: 10px" src="icons/kotlin.svg" alt="Kotlin" height="50" /></picture></a>
+  <a href="https://neovim.io/"><picture><img style="margin: 10px" src="icons/neovim.svg" alt="NeoVim" height="50" /></picture></a>
+  <a href="https://code.visualstudio.com/"><picture><img style="margin: 10px" src="icons/vscode.svg" alt="VSCode" height="50" /></picture></a>
+  <a href="https://www.apple.com/os/macos/"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/apple-light.svg"><source media="(prefers-color-scheme: light)" srcset="icons/apple-dark.svg"><img style="margin: 10px" src="icons/apple-dark.svg" alt="apple" height="50" /></picture></a>
+  <a href="https://www.microsoft.com/windows/"><picture><img style="margin: 10px" src="icons/windows.svg" alt="Windows" height="50" /></picture></a>
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yk0n9&layout=compact&theme=tokyonight) -->
